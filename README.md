@@ -1,6 +1,6 @@
-#Java Project
+#jogged hours
 
-*Java Project which contains a simple Java Application*
+*Jogging log Application*
 
 * Java 7
 * Eclipse
